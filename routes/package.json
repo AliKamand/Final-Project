@@ -1,0 +1,12 @@
+{
+  "name": "mychat",
+  "version": "1.0.0",
+  "description": "my final project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ali",
+  "license": "ISC"
+}
+
